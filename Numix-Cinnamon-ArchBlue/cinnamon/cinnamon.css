@@ -3670,7 +3670,7 @@ use to override window-list-item-box */
 .timepp-menu .todo-section {
   context-color: #4caf50;
   project-color: #03a9f4;
-  link-color: #f0544c;
+  link-color: #1793d1;
 }
 
 .timepp-menu .todo-section .delete-complete-tasks-label,
@@ -3696,7 +3696,7 @@ use to override window-list-item-box */
 }
 
 .timepp-menu .todo-section .header StButton:hover, .timepp-menu .todo-section .header StButton:focus {
-  color: #f0544c;
+  color: #1793d1;
 }
 
 .timepp-menu .todo-section .task-item {
@@ -3712,7 +3712,7 @@ use to override window-list-item-box */
 }
 
 .timepp-menu .todo-section .task-item.A .priority-label {
-  color: #f0544c;
+  color: #1793d1;
 }
 
 .timepp-menu .todo-section .task-item.B {
